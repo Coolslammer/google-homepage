@@ -18,7 +18,7 @@ body {
 	display: block;
 }
 .searchbox{
-	width: 592px;
+	width: 572px;
 	height: 29px;
 	margin: auto;
 	position: relative;
@@ -38,6 +38,9 @@ body {
 }
 .searchbox .mic img{
 	float: right;
-	height: 21px;
+	height: 24px;
 	position: relative;
+	right: 12px;
+	top: 4px;
+	z-index: 11;
 }
