@@ -44,3 +44,62 @@ body {
 	top: 4px;
 	z-index: 11;
 }
+.box{
+	width: 275px;
+	height: 36px;
+	margin: auto;
+	margin-top: 15px;
+}
+.box .left{
+	height: 36px;
+	width: 125px;
+	background-color: #f2f2f2;
+	font-family: arial;
+	font-size: 13px;
+	color: #757575;
+	font-weight: bold;
+	border-radius: 2px;
+	text-align: center; 
+	float: left;
+}
+.box .right{
+	height: 36px;
+	width: 140px;
+	background-color: #f2f2f2;
+	font-family: arial;
+	font-size: 13px;
+	color: #757575;
+	font-weight: bold;
+	border-radius: 2px;
+	text-align: center; 
+	float: right;
+}
+.footer {
+	position: absolute;
+	width: 100%;
+	height: 40px;
+	background-color: #f2f2f2;
+	bottom: 1px;
+	border-top: 1px solid #e4e4e4;
+	font-family: arial;
+	font-size: small;
+	color:#666;
+}
+.footer .left{
+	display: inline-block;
+	height: 100%;
+	width: 485;
+	float: left;
+}
+.footer .left #adv{
+	padding-left: 30px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+{
+}
+.footer .left #bus{
+
+}
+.footer .left #abt{
+
+}
