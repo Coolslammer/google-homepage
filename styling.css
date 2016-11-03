@@ -86,20 +86,41 @@ body {
 	color:#666;
 }
 .footer .left{
-	display: inline-block;
-	height: 100%;
-	width: 485;
+	width: 48%;
 	float: left;
 }
 .footer .left #adv{
 	padding-left: 30px;
-	padding-top: 15px;
-	padding-bottom: 10px;
-{
+	display: inline;
+	float: left;
 }
 .footer .left #bus{
+	padding-left: 30px;
+	display: inline;
+	float: left;
+}
+.footer .left #at{
+	padding-left: 30px;
+	display: inline;
+	float: left;
+}
+.footer	.right{
+	width: 16.7%;
+	float: right;
 
 }
-.footer .left #abt{
-
+.footer .right #prv{
+	padding-right: 30px;
+	display: inline;
+	float: left;
+}
+.footer .right #trm{
+	padding-right: 30px;
+	display: inline;
+	float: left;
+}
+.footer .right #set{
+	padding-right: 30px;
+	display: inline;
+	float: left;
 }
